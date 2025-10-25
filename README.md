@@ -5,14 +5,14 @@ The purpose of this repository is to document and demonstrate how to gather, ana
 
 By organizing these details early, developers and stakeholders can ensure a shared understanding of the project’s objectives, reduce errors, and build a solid foundation for design and implementation.
 
-# 🧩 Requirement Analysis in Software Development
 
-## 📘 Introduction
+
+##  Introduction
 **Requirement Analysis** is one of the most critical phases of the **Software Development Life Cycle (SDLC)**. It involves identifying, gathering, analyzing, and documenting the needs and expectations of users, stakeholders, and the system itself before actual development begins. This ensures that developers understand *what to build*, *why to build it*, and *how it should function* to meet business goals.
 
 ---
 
-## 🧠 What Is Requirement Analysis?
+##  What Is Requirement Analysis?
 Requirement Analysis (also called requirements engineering) is the process of studying user needs to define clear, detailed, and testable requirements for a software system. It bridges the gap between clients and developers by translating business ideas into technical specifications.
 
 **The process includes:**
