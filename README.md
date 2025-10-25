@@ -50,3 +50,19 @@ Requirement Analysis is a foundation for project success. Its importance include
 ## ⚙️ Role in the Software Development Life Cycle (SDLC)
 Requirement Analysis typically follows **Feasibility Study** and precedes **System Design**. It acts as the blueprint for all later stages.
 
+##  Why Requirement Analysis Is Critical in the SDLC
+
+Requirement Analysis is a crucial phase in the Software Development Life Cycle because it lays the groundwork for every other stage. Below are three key reasons why it is so important:
+
+### 1.  Clear Understanding of Project Goals
+Requirement Analysis ensures that both developers and stakeholders share the same understanding of what the system is supposed to achieve. By defining functional and non-functional requirements early, teams can align their objectives and avoid confusion later in the project.
+
+### 2. Reduced Errors and Rework
+Identifying potential issues and unclear requirements at the beginning helps prevent costly changes during the design or coding stages. This saves time, reduces project costs, and ensures a smoother development process.
+
+### 3.  Improved Planning and Decision-Making
+Well-defined requirements provide a solid foundation for accurate project estimation, scheduling, and resource allocation. It helps project managers plan effectively and developers make informed technical decisions.
+
+> In short, strong Requirement Analysis leads to fewer misunderstandings, more efficient development, and higher-quality software.
+
+# Key Activities in Requirement Analysis.
