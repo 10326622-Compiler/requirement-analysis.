@@ -23,7 +23,7 @@ Requirement Analysis (also called requirements engineering) is the process of st
 5. **Requirement Validation:** Review and confirm that the documented requirements accurately reflect user needs.
 
 ---
- ## 💡 Types of Requirements
+ ##  Types of Requirements
 
 | Type | Description | Example |
 |------|--------------|----------|
@@ -75,7 +75,7 @@ Well-defined requirements provide a solid foundation for accurate project estima
 4. **Requirement Specification:** Document the requirements in a **Software Requirement Specification (SRS)**.  
 5. **Requirement Validation:** Review and confirm that the documented requirements accurately reflect user needs.
 
-   ## 💡 Types of Requirements
+   ##  Types of Requirements
 
 | Type | Description | Example |
 |------|--------------|----------|
@@ -83,12 +83,12 @@ Well-defined requirements provide a solid foundation for accurate project estima
 | **Non-Functional Requirements** | Define *how* the system performs tasks (quality attributes). |The perfromance and scalability |
 
 ---
-## 🎯 Use Case Diagrams
+##  Use Case Diagrams
 
-### 📘 What is a Use Case Diagram?
+###  What is a Use Case Diagram?
 A **Use Case Diagram** is a visual representation that shows how different users (called *actors*) interact with a system to achieve specific goals. It helps in identifying the system’s functional requirements and understanding the relationships between users and system processes.
 
-### 💡 Benefits of Use Case Diagrams
+###  Benefits of Use Case Diagrams
 - Clearly defines the system’s boundaries and functionalities.  
 - Improves communication between stakeholders and developers.  
 - Helps identify user needs and system behavior early in the SDLC.  
@@ -96,14 +96,14 @@ A **Use Case Diagram** is a visual representation that shows how different users
 
 ---
 
-### 🏨 Use Case Diagram for Booking System
+###  Use Case Diagram for Booking System
 
 Below is a use case diagram illustrating how users interact with a booking system.
 
 **Actors:**
-- 🧑‍💼 **Customer:** Browses listings, makes a booking, cancels a booking, and views booking history.  
-- 🏠 **Host:** Adds new property listings, updates listings, and manages bookings.  
-- 🧑‍💻 **Admin:** Manages users, oversees listings, and handles complaints.
+-  **Customer:** Browses listings, makes a booking, cancels a booking, and views booking history.  
+-  **Host:** Adds new property listings, updates listings, and manages bookings.  
+-  **Admin:** Manages users, oversees listings, and handles complaints.
 
 **Use Cases:**
 - View available properties  
@@ -115,6 +115,6 @@ Below is a use case diagram illustrating how users interact with a booking syste
 
 ---
 
-### 🖼️ Diagram
-![Use Case Diagram for Booking System](alx-booking-uc.drawio.png)
+###  Diagram
+![Use Case Diagram for Booking System](alx-booking-uc.png)
 *(Diagram created using [Draw.io](https://app.diagrams.net/))*
