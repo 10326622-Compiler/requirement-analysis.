@@ -1,6 +1,6 @@
-##requirement analysis
+#requirement analysis
 
-# Requirement Analysis in Software Development.
+## Requirement Analysis in Software Development.
 This repository focuses on the Requirement Analysis phase of software development — one of the most important stages in building successful software projects.
 
 The purpose of this repository is to document and demonstrate how to gather, analyze, and define user and system requirements before development begins. The project provides clear, structured documentation of requirements such as functional needs, user stories, system goals, and constraints.
