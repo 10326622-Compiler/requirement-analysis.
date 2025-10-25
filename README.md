@@ -116,7 +116,7 @@ Below is a use case diagram illustrating how users interact with a booking syste
 ---
 
 ###  Diagram
-![Use Case Diagram for Booking System](./download/alx-booking-uc.png)
+![Use Case Diagram for Booking System](./download/alx-booking-uc.drawio.png)
 *(Diagram created using [Draw.io](https://app.diagrams.net/))*
 
 ##  Acceptance Criteria
