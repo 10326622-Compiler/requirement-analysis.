@@ -24,14 +24,6 @@ Requirement Analysis (also called requirements engineering) is the process of st
 
 ---
 
-## 💡 Types of Requirements
-
-| Type | Description | Example |
-|------|--------------|----------|
-| **Functional Requirements** | Define *what* the system should do. | “The user should be able to reset their password via email.” |
-| **Non-Functional Requirements** | Define *how* the system performs tasks (quality attributes). | “The system should respond within 2 seconds.” |
-| **Business Requirements** | Describe the overall goals and objectives of the project. | “Increase user engagement by 30%.” |
-| **User Requirements** | Focus on user interactions and expectations. | “Users should be able to view transaction history.” |
 
 ---
 
@@ -73,3 +65,14 @@ Well-defined requirements provide a solid foundation for accurate project estima
 3. **Requirement Analysis:** Evaluate requirements for clarity, completeness, and feasibility.  
 4. **Requirement Specification:** Document the requirements in a **Software Requirement Specification (SRS)**.  
 5. **Requirement Validation:** Review and confirm that the documented requirements accurately reflect user needs.
+
+   ## 💡 Types of Requirements
+
+| Type | Description | Example |
+|------|--------------|----------|
+| **Functional Requirements** | Define *what* the system should do. | “The user should be able to reset their password via email.” |
+| **Non-Functional Requirements** | Define *how* the system performs tasks (quality attributes). | “The system should respond within 2 seconds.” |
+| **Business Requirements** | Describe the overall goals and objectives of the project. | “Increase user engagement by 30%.” |
+| **User Requirements** | Focus on user interactions and expectations. | “Users should be able to view transaction history.” |
+
+---
