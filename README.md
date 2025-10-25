@@ -118,3 +118,39 @@ Below is a use case diagram illustrating how users interact with a booking syste
 ###  Diagram
 ![Use Case Diagram for Booking System](alx-booking-uc.png)
 *(Diagram created using [Draw.io](https://app.diagrams.net/))*
+
+##  Acceptance Criteria
+
+### What Are Acceptance Criteria?
+**Acceptance Criteria (AC)** are the conditions that a software product must meet to be accepted by a user, customer, or other stakeholders.  
+They define what “done” means for a feature or user story — providing a clear, testable understanding of the system’s expected behavior.
+
+---
+
+### 💡 Importance of Acceptance Criteria in Requirement Analysis
+- **Ensures Clarity:** Clearly defines what needs to be built, reducing misunderstandings between developers and stakeholders.  
+- **Improves Testing:** Each acceptance criterion can be turned into a test case to verify that the system works as intended.  
+- **Supports Agile Development:** Helps teams agree on the scope of work for each user story or feature before implementation begins.  
+- **Enhances Quality Assurance:** Ensures that every feature aligns with user needs and business requirements.
+
+---
+
+###  Example: Acceptance Criteria for the Checkout Feature (Booking Management System)
+
+**Feature:** Checkout and Payment for Booking
+
+**User Story:**  
+> As a customer, I want to complete my booking by paying securely online, so that my reservation is confirmed immediately.
+
+**Acceptance Criteria:**
+1.  The system must display a summary of the booking before payment (property details, dates, total cost).  
+2.  The user must be able to select a payment method (credit card, PayPal, or mobile money).  
+3.  The system must validate payment information before processing.  
+4.  Upon successful payment, the booking status must update to **“Confirmed.”**  
+5.  The user must receive a payment confirmation email within one minute of successful payment.  
+6.  If payment fails, the user should see an error message and have the option to retry or cancel.
+
+---
+
+>  **In summary:**  
+> Acceptance Criteria help bridge the gap between *requirements* and *implementation*. They make each feature measurable, testable, and aligned with user expectations — a vital component of effective requirement analysis.
