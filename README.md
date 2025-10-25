@@ -66,3 +66,10 @@ Well-defined requirements provide a solid foundation for accurate project estima
 > In short, strong Requirement Analysis leads to fewer misunderstandings, more efficient development, and higher-quality software.
 
 # Key Activities in Requirement Analysis.
+
+**The Activities includes:**
+1. **Requirement Gathering:** Collect information from stakeholders through interviews, surveys, and observations.  
+2. **Requirement Elicitation:** Understand *what users truly need* versus *what they say they want.*  
+3. **Requirement Analysis:** Evaluate requirements for clarity, completeness, and feasibility.  
+4. **Requirement Specification:** Document the requirements in a **Software Requirement Specification (SRS)**.  
+5. **Requirement Validation:** Review and confirm that the documented requirements accurately reflect user needs.
