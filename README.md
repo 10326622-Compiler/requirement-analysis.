@@ -83,3 +83,38 @@ Well-defined requirements provide a solid foundation for accurate project estima
 | **Non-Functional Requirements** | Define *how* the system performs tasks (quality attributes). |The perfromance and scalability |
 
 ---
+## 🎯 Use Case Diagrams
+
+### 📘 What is a Use Case Diagram?
+A **Use Case Diagram** is a visual representation that shows how different users (called *actors*) interact with a system to achieve specific goals. It helps in identifying the system’s functional requirements and understanding the relationships between users and system processes.
+
+### 💡 Benefits of Use Case Diagrams
+- Clearly defines the system’s boundaries and functionalities.  
+- Improves communication between stakeholders and developers.  
+- Helps identify user needs and system behavior early in the SDLC.  
+- Serves as a blueprint for writing detailed use case specifications.
+
+---
+
+### 🏨 Use Case Diagram for Booking System
+
+Below is a use case diagram illustrating how users interact with a booking system.
+
+**Actors:**
+- 🧑‍💼 **Customer:** Browses listings, makes a booking, cancels a booking, and views booking history.  
+- 🏠 **Host:** Adds new property listings, updates listings, and manages bookings.  
+- 🧑‍💻 **Admin:** Manages users, oversees listings, and handles complaints.
+
+**Use Cases:**
+- View available properties  
+- Book property  
+- Cancel booking  
+- Add listing  
+- Manage users  
+- View booking history  
+
+---
+
+### 🖼️ Diagram
+![Use Case Diagram for Booking System](alx-booking-uc.drawio.png)
+*(Diagram created using [Draw.io](https://app.diagrams.net/))*
